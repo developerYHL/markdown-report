@@ -235,7 +235,4 @@ __double underscores__
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
-![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
-![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "RubberDuck")
-
-사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용한다.
+![대림대학교](http://cafefiles.naver.net/20160131_222/rkddmswjd0000_14542087229022JS42_JPEG/%B4%EB%B8%B2%B4%EB%C7%D0%B1%B3_4.JPG "대림대학교")
